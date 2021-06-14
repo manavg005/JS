@@ -1,5 +1,4 @@
 let countEl = document.getElementById("count-el")
-// console.log(countEl);
 let saveEl = document.getElementById("save-el")
 console.log(saveEl);
 
